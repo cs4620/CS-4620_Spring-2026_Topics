@@ -1,32 +1,44 @@
-# Day 28 - April 30 - Ray Tracing 6 [CPU] (🧑‍🏫Lecture 16)
-# Day 27 - April 28 - (👟Sprint)
-# Day 26 - April 23 - Ray Tracing 5 [CPU] (🧑‍🏫Lecture 15)
-# Day 25 - April 21 - (👟Sprint)
-# Day 24 - April 16 - Ray Tracing 4 [CPU] (🧑‍🏫Lecture 14)
-# Day 23 - April 14 - (👟Sprint)
-# Day 22 - April 09 - Ray Tracing 3 [CPU] (🧑‍🏫Lecture 13)
-# Day 21 - April 07 - (👟Sprint)
-# Day 20 - April 02 - Ray Tracing 2 [CPU] (🧑‍🏫Lecture 12)
-# Day 19 - March 31 - (👟Sprint)
-# Day 18 - March 26 - Ray Tracing 1 [CPU] (🧑‍🏫Lecture 11)
-# Day 17 - March 24 - (👟Sprint)
-# Holiday - March 18 - (Class Canceled)
-# Holiday - March 16 - (Class Canceled)
-# Day 16 - March 12 - Rasterizer 5 [GPU] (🧑‍🏫Lecture 10)
-# Day 15 - March 10 - (👟Sprint)
-# Day 14 - March 05 - Rasterizer 4 [GPU] (🧑‍🏫Lecture 9)
-# Day 13 - March 03 - (👟Sprint)
-# Day 12 - February 26 - Rasterizer 3 [GPU] (🧑‍🏫Lecture 8)
-# Day 11 - February 24 - (👟Sprint)
-# Day 10 - February 19 - Rasterizer 2 [GPU]  (🧑‍🏫Lecture 7)
-# Day 09 - February 17 - (👟Sprint)
-# Day 08 - February 12 - Rasterizer 1 [GPU] (🧑‍🏫Lecture 6)
-# Day 07 - February 10 - (👟Sprint)
-# Day 06 - February 05 - Animation [Blender] (🧑‍🏫Lecture 5)
-# Day 05 - February 03 - (👟Sprint)
-# Day 04 - January 29 - Shaders [Blender] (🧑‍🏫Lecture 4)
-# Day 03 - January 27 - Texture Mapping [Blender] (🧑‍🏫Lecture 3)
-# Holiday - January 22 - (Class Canceled)
-# Holiday - January 20 - (Class Canceled)
-# Day 02 - January 15 - Model Space [Blender] (🧑‍🏫Lecture 2)
+# CS 4620/8626 - Spring 2026 - Topics
+These are the topics we are going to cover in class each day. Links to [example student videos ](https://www.youtube.com/playlist?list=PLH9qo0GKu2iQgPuzozltIuvLgEddxc43L) and [slides from class](https://uofnebraska-my.sharepoint.com/:f:/g/personal/17816140_nebraska_edu/IgCHg5Sr1POTT4uZ0xpYHfWsAcBjrFnqAThYk6a3sROkT3Y?e=5PhlNM)
+
+<br/><br/>
+---
+---
+
+
 # Day 01 - January 13 - World Space [Blender] (🧑‍🏫Lecture 1)
+
+  ## Intro
+  🏃‍♂️Seeing the world
+  Bring pencil and paper
+  Draw an orange w/o seeing the basketball
+  Show the orange and draw basketball
+  https://www.pexels.com/photo/orange-fruit-161559/
+
+  ## Fundamental problem of graphics
+  Avagadro’s number
+  We can never simulate at first principles, therefore everything has to be a simplification
+  Meshes in Substance 3D Painter demo reel - https://www.youtube.com/watch?v=IOe154tJSQA up to :19
+
+  ## World Space
+  ::Video:: See city in Inception
+  https://www.youtube.com/watch?v=YoHD9XEInc0
+  Start around 2:00
+  🏃‍♂️Draw a city in Blender using cubes in world space.
+  🏀 Translate/Scale/Rotate
+  💡 x/y/z -> r/g/b
+  💡Moving windows in Blender
+  💡 n to bring out panels in Blender
+  💡 numbers to change view
+  💡 Apply changes
+  💡 Move pivot
+  ⚠️ Laptops need to turn on emulation
+
+  ## About Blender
+  Blender v Maya v 3DSMax (ZBrush, Cinema 4D)
+  ::Video:: What you can do in Blender timelapse: https://www.youtube.com/watch?v=8VRtkdRPnos
+
+  ## Matrices
+  How could you translate/scale/rotate in code?
+  Homogenous coordinates
+  Major Matrices
