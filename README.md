@@ -14,6 +14,8 @@ These are the topics we are going to cover in class each day. Links to [example 
   Draw an orange w/o seeing the basketball
   Show the orange and draw basketball
   https://www.pexels.com/photo/orange-fruit-161559/
+  https://www.youtube.com/watch?v=ItY5chvVZoA
+  https://www.youtube.com/watch?v=kaAmF8gy6eQ (start at 3:20?)
 
   ## Fundamental problem of graphics
   Avagadro’s number
