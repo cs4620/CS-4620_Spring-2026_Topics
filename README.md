@@ -36,7 +36,7 @@ These are the topics we are going to cover in class each day. Links to [example 
 
 ## 💡New Idea: Cross Products
 - Blender knows how to do an extrude by using a cross product
-- $` a\times b `$ gives a vector that is orthogonal to $a$ and $b$
+- $ a\times b $ gives a vector that is orthogonal to $a$ and $b$
 - $x = a_y \cdot b_z - a_z \cdot b_y$
 - $y = a_z \cdot b_x - a_x \cdot b_z$
 - $z = a_x \cdot b_y - a_y \cdot b_x$
@@ -97,7 +97,7 @@ These are the topics we are going to cover in class each day. Links to [example 
    -  Rotation about Y:
       -  $`\begin{bmatrix}cosine(\theta) & 0 & sine(\theta) & 0\\ 0 & 1 & 0 & 0\\ -sine(\theta) & 0 & cosine(\theta) & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
    -  Rotation about Z:
-      -  $\begin{bmatrix}cosine(\theta) & -sine(\theta) & 0 & 0\\ sine(\theta) & cosine(\theta) & 0 & 0\\0 & 0 & 1 & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}$
+      -  $`\begin{bmatrix}cosine(\theta) & -sine(\theta) & 0 & 0\\ sine(\theta) & cosine(\theta) & 0 & 0\\0 & 0 & 1 & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
 
 ## 💡New Idea: Major Translations
 - Left-handed v right-handed coordinate systems
