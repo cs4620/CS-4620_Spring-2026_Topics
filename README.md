@@ -5,31 +5,49 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
-# Day  -   - (🧑‍🏫Lecture)
+# Holiday - January 22 - (Class Canceled)
 
+# Holiday - January 20 - (Class Canceled)
 
+# Day 02 - January 15 - Model Space [Blender] (🧑‍🏫Lecture 2)
 
-## 💡New Idea:
-- 
+## 📢Announcements
+- No class on the 20th or 22nd
 
-## 👩‍💻Code Together:
--
+## 🖼️Activity: Review the Syllabus 
 
-## 🧭Ideas to explore on your own
-- 
+## 💡New Idea: Editing Content in Blender in Model Space
+- Content in Blender in represented by a combination of:
+  - Vertex, a vector in 3D space
+  - Edge, a point of vertices
+  - Face, a set of edges 
 
-## 🏁Final Code
-- [The final code for today](https://github.com/cs2510/Fall2025.Day)
-<br/><br/>
----
----
+## 🌎Historical Context: Review Original Star Wars History
+- [Opening sequence in Star Wars: A New Hope](https://youtu.be/tRX4JFWffkM?si=G1V2hkSZJdOxqOL_)
+
+## 🖼️Activity:  Use reference images to model a Star Destroyer
+- Start with [schematic images of a Star Destroyer](https://t.ly/hzJvW)
+- Idea: X-ray Mode
+- Idea: Model space
+- Idea: Reference images
+- Idea: Extrude
+- Idea: Mirror
+  <!-- ::Video:: What you can do in Blender timelapse: https://www.youtube.com/watch?v=8VRtkdRPnos -->
+
+## 💡New Idea: Cross Products
+- Blender knows how to do an extrude by using a cross product
+- $` a\times b `$ gives a vector that is orthogonal to $a$ and $b$
+- $x = a_y \cdot b_z - a_z \cdot b_y$
+- $y = a_z \cdot b_x - a_x \cdot b_z$
+- $z = a_x \cdot b_y - a_y \cdot b_x$
+
 
 
 
 # Day 01 - January 13 - World Space [Blender] (🧑‍🏫Lecture 1)
 
 
-## 🖼️Activity:
+## 🖼️Activity: 3D Computer Graphics in Story Telling
 - Watch a film with heavy use of 3D Computer Graphics. (For example, consider [Rouge One](https://www.youtube.com/watch?v=kaAmF8gy6eQ) (start at 3:20?))
   - What kind of emotions is the director trying to evoke? 
   - How do computer graphics help us achieve that?
@@ -70,14 +88,14 @@ These are the topics we are going to cover in class each day. Links to [example 
    -  Translate:
       -  $`\begin{bmatrix}0 & 0 & 0 & T_x\\0 & 0 & 0 & T_y\\0 & 0 & 0 & T_z\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
    -  Scale:
-      -  $\begin{bmatrix}S_x & 0 & 0 & 0\\ 0 & S_y & 0 & 0\\0 & 0 & S_z & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}$
+      -  $`\begin{bmatrix}S_x & 0 & 0 & 0\\ 0 & S_y & 0 & 0\\0 & 0 & S_z & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
    -  Rotation:
       -  Rotation based on this basic 2D rotation pattern:
-      -  $\begin{bmatrix} cosine(\theta) & -sine(\theta) \\ sine(\theta) & cosine(\theta) \\\end{bmatrix}$
+      -  $`\begin{bmatrix} cosine(\theta) & -sine(\theta) \\ sine(\theta) & cosine(\theta) \\\end{bmatrix}`$
    -  Rotation about X:
-      -  $\begin{bmatrix}1 & 0 & 0 & 0\\ 0 & cosine(\theta) & -sine(\theta) & 0\\0 & sine(\theta) & cosine(\theta) & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}$
+      -  $`\begin{bmatrix}1 & 0 & 0 & 0\\ 0 & cosine(\theta) & -sine(\theta) & 0\\0 & sine(\theta) & cosine(\theta) & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
    -  Rotation about Y:
-      -  $\begin{bmatrix}cosine(\theta) & 0 & sine(\theta) & 0\\ 0 & 1 & 0 & 0\\ -sine(\theta) & 0 & cosine(\theta) & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}$
+      -  $`\begin{bmatrix}cosine(\theta) & 0 & sine(\theta) & 0\\ 0 & 1 & 0 & 0\\ -sine(\theta) & 0 & cosine(\theta) & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}`$
    -  Rotation about Z:
       -  $\begin{bmatrix}cosine(\theta) & -sine(\theta) & 0 & 0\\ sine(\theta) & cosine(\theta) & 0 & 0\\0 & 0 & 1 & 0\\0 & 0 & 0 & 1 \\\end{bmatrix}$
 

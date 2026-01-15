@@ -385,21 +385,4 @@ https://www.pixar.com/usd
   <!-- ## Example
   Professional Shaders – Pixar – https://vimeo.com/568462499 -->
 
-# Holiday - January 22 - (Class Canceled)
-
-# Holiday - January 20 - (Class Canceled)
-
-# Day 02 - January 15 - Model Space [Blender] (🧑‍🏫Lecture 2)
-
-## 🔨 Syllabus 
-
-  ## Model Space
-  Vertex, Edge, Face
-  Activity: Use reference images to model a tie fighter in model space
-  Idea: X-ray Mode
-  Idea: Model space
-  Idea: Reference images
-  Idea: Extrude
-  Idea: Mirror
-  <!-- ::Video:: What you can do in Blender timelapse: https://www.youtube.com/watch?v=8VRtkdRPnos -->
 
