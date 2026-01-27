@@ -5,11 +5,106 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 03 - January 27 - Shading 1 [Blender] (🧑‍🏫Lecture 3)
+![Banner Image](support/shadow.jpg)
+## 📢Announcements
+- It's time to prepare for our first sprint
+
+## 🔙Review
+- What is a right-handed cross product?
+  - $a\times b$ gives a vector that is orthogonal to $a$ and $b$
+  - $x = a_y \cdot b_z - a_z \cdot b_y$
+  - $y = a_z \cdot b_x - a_x \cdot b_z$
+  - $z = a_x \cdot b_y - a_y \cdot b_x$
+
+
+  <!-- ## Math Review
+  Do a dot and cross product
+  See Today for websites with tools -->
+
+## 💡New Idea: 
+  - Look at different clips from videos. How is lighting use to tell a story or set a mood?
+
+> [!Tip] History Moment
+>
+> Snow White was the first fill length animated film. Throughout the film you see that in some scenes the characters have shadows and in other they didn't
+>
+> You can see in other animated films, for example Robin Hood, that shadows were abandoned for budget reasons
+
+
+## 💡New Idea: Ambient Lighting
+- Light is always bouncing around us. Ambient lighting is a 'fudge' term that tries to capture this reflected light.
+
+## 👩‍💻Activity
+- Adjust the ambient lighting in Blender
+
+> [!Tip] History Moment
+> Early FPS games only used ambient lighting. For example look at Wolfenstein 3D, the predecessor to Doom. 
+
+## 💡New Idea: Diffuse Lighting
+- How does light reflect at an atomic level?
+- How does the angle to a light affect the amount of diffuse lighting?
+  - Talk about sun burns and seasons
+- The difference between a surface's normal and the direction to the light source determine the amount of illumination
+  - The normal of a surface is the vector that is perpendicular to the tangent of the surface
+- The difference between normals can be found by calculating the dot product between them.
+
+## 👩‍💻Activity: Add Diffuse Lighting in Blender
+- Look at different light types
+  - Spot
+  - Sun
+  - Point
+  - Area
+    - Why do area lights cause noise in the rendered image?
+
+
+
+ 
+
+  <!-- ## Shading in Blender
+  - Different shading views in main view
+  - Changing ambient light in the world tab
+  - Adding a material to a mesh -->
+
+  <!-- ## Shader tab in Blender
+  - Visual scripting
+  - Pins and wires
+  - Add ambient, diffuse, and specular (glossy) shaders -->
+
+## Normals on Objects
+  - Different kinds of shading in Blender (smooth v flat)
+  - Normals as an attribute of vertices gives us a way to hint at the curvature of a surface.
+
+
+  <!-- ## Normal maps
+  •	In Blender:
+  Create a high-poly and low-poly mesh. 
+  •	Add details to the high-poly mesh
+  •	Add a shader to the low-poly mesh.
+  •	Create and select an image texture in that shader
+  •	Chane renderer to cycles
+  •	Open bake tab.
+  •	Change from Combined to Normal
+  •	Select selected to active
+  •	Set Extrusion to 1m
+  •	Bake -->
+
+
+  <!-- ## OBJs -->
+
+  <!-- ## Example
+  Professional Shaders – Pixar – https://vimeo.com/568462499 -->
+
+
+
+
 # Holiday - January 22 - (Class Canceled)
 
 # Holiday - January 20 - (Class Canceled)
 
 # Day 02 - January 15 - Model Space [Blender] (🧑‍🏫Lecture 2)
+
+![Game Loop Banner Image](support/clay.jpg)
 
 ## 📢Announcements
 - No class on the 20th or 22nd
@@ -45,6 +140,8 @@ These are the topics we are going to cover in class each day. Links to [example 
 
 
 # Day 01 - January 13 - World Space [Blender] (🧑‍🏫Lecture 1)
+
+![Banner Image](support/globe.jpg)
 
 
 ## 🖼️Activity: 3D Computer Graphics in Story Telling
