@@ -5,6 +5,68 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 04 - January 29 - Shading 2 [Blender] (🧑‍🏫Lecture 4)
+![Banner Image](support/present.jpg)
+
+
+## 📢Announcements
+- It's time to prepare for our first sprint
+- Here are some topics that might appear on a quiz:
+  - Vector Length
+  - Vector dot product
+  - Vector cross product
+  - Coordinate Systems (left and right handed)
+  - Questions about very basic modeling
+  - Questions about very basic lighting
+
+## 🔙Review
+- Consider vector A (1, 0, 0) and vector B(1, 1, 0)
+- What is A cross B?
+- What is A dot B?
+- What is the length of A?
+- What is the length of B?
+
+## How to add color to objects in blender
+- Base colors (diffuse)
+- Specular highlights (roughness)
+
+## Texturing
+Wrapping paper
+Activity: Wrapping paper
+
+Wrapping maps
+Activity, Reviewing mapping projections
+
+Look at the Wolfenstein 3D
+
+## Blender UV Activity
+- Look at the UV maps for a sphere
+- UV map projections
+- Save UV map outlines for space ship
+
+## Different renderers
+  
+## Math Starter
+- Normalize vectors
+- Interpolate normals across a triangle
+
+## Interpolate normal
+Barycentric coordinates
+- See calculator
+
+## Actual texture maps
+- See head texture map
+
+
+## Professional software
+Substance 3D
+Activity: Review Substance 3D demoreel/website
+https://www.youtube.com/watch?v=TzMHqw0Qp-s
+
+  <!-- ## Normal maps -->
+
+
+
 # Day 03 - January 27 - Shading 1 [Blender] (🧑‍🏫Lecture 3)
 ![Banner Image](support/shadow.jpg)
 ## 📢Announcements
