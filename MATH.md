@@ -1,0 +1,15 @@
+# Calculations you should be able to do
+- Given two vectors, find their similarity (dot product)
+- Given a vector, find its length
+- Given a vector, find its normalized version
+- Given two vectors, find an orthogonal vector (cross product)
+- Given two vectors, find the area of the triangle they form
+- Given a point on a triangle, find the influence of the vertices on that point (Barycentric coordinates)
+- Given a plane and a ray, find where the ray hits the triangle
+- Given a triangle and a ray, find where the ray hits the triangle
+- Given a camera look from, look at, up and FOV, find the ray from the look from to a pixel on a final image
+- Calculate the ambient light on a point
+- Calculate the diffuse light from a light source to a point
+- Calculate the specular highlight from a light source to a point
+- Calculate the lighting contributions from multiple light sources
+- 

@@ -1,0 +1,35 @@
+# Vocabulary words to know
+- vertex
+- edge
+- face
+- triangle
+- model
+- normal
+- uv
+- texture map
+- shader
+- key frame
+- rig (armature)
+- bone
+- weight painting
+- obj format
+- vertex shader
+- fragment shader
+- GPU
+- CPU
+- rasterizer
+- ray tracer
+- OpenGL
+- DirectX
+- GLSL
+- HLSL
+
+# Model Software You Should Be Aware Of
+- Blender
+- 3DS MAX
+- Maya
+- Cinema 4D
+- Houdini
+- Z Brush
+- Mud box
+- Surface Painter
