@@ -44,7 +44,7 @@ Look at the Wolfenstein 3D
 - UV map projections
 - Save UV map outlines for space ship
 
-## Different renderers
+<!-- ## Different renderers
   
 ## Math Starter
 - Normalize vectors
@@ -52,7 +52,7 @@ Look at the Wolfenstein 3D
 
 ## Interpolate normal
 Barycentric coordinates
-- See calculator
+- See calculator -->
 
 ## Actual texture maps
 - See head texture map
