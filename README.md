@@ -5,6 +5,12 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 05 - February 03 - (👟Sprint)
+
+<br/><br/>
+---
+---
+
 # Day 04 - January 29 - Shading 2 [Blender] (🧑‍🏫Lecture 4)
 ![Banner Image](support/present.jpg)
 
