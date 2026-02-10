@@ -5,6 +5,17 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 07 - February 10 - (👟Sprint)
+
+Briefly covered:
+- Subdivision surfaces
+- Nurbs Surfaces
+- Extruding paths along paths
+
+<br/><br/>
+---
+---
+
 # Day 06 - February 05 - Rendering [Blender] (🧑‍🏫Lecture 5)
 
 
