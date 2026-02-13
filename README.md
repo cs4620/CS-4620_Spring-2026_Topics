@@ -5,6 +5,31 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 08 - February 12 - Animation [Blender] (🧑‍🏫Lecture 6)
+
+
+## Review
+  Dot Product Questions
+
+  ## History
+  Disney and animation
+  - Disney Springs Animators Picture
+  - Pins
+  - Dope sheets
+  - Key frames
+  - Tweeners
+
+  ## Class Activity
+  Animate a scene from Star Wars
+  - https://www.youtube.com/watch?v=ykXWRNZiI3M
+  - Timeline
+  - Dope sheet
+  - Frames
+  - Keyframes
+  - Go to frame - Make a change - Set a key frame
+  - Graph editor
+
+
 # Day 07 - February 10 - (👟Sprint)
 
 Briefly covered:
