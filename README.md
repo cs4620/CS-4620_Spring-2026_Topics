@@ -5,7 +5,18 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
-# Day 08 - February 12 - Animation [Blender] (🧑‍🏫Lecture 6)
+
+# Day 20 - February 19 - Model Space (Flexible) Animation [Blender] (🧑‍🏫Lecture 6)
+
+# 💡New Idea: History of model space animation
+
+# Day 09 - February 17  (👟Sprint)
+
+<br/><br/>
+---
+---
+
+# Day 08 - February 12 - World Space (Rigid) Animation [Blender] (🧑‍🏫Lecture 6)
 
 
 ## Review
