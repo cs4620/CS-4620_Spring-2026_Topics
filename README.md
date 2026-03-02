@@ -5,6 +5,81 @@ These are the topics we are going to cover in class each day. Links to [example 
 ---
 ---
 
+# Day 12 - February 26 - Shader Basics [Rasterizing] (🧑‍🏫Lecture 8)
+
+# 💡New Idea: GPU Shader APIs
+- DirectX
+  - Pioneered by Microsoft. Popular on PCs and XBox
+  - Allows high or low-level usage
+- Vulkan
+  - Cross platform, low-level library
+- Metal
+  - Apple's low-level library
+- OpenGL
+  - OpenGL is officially deprecated, but is still used.
+  - High-level API
+
+# 💡New Idea: GPU Shader Pipeline
+- Clear Z Buffer 
+- Review Vertex Shaders
+  - Vertex shaders take model vertices and project them onto the screen
+- Review Z Buffer
+- Review Fragment Shaders
+  - Find the final color for fragments (pixels) 
+- Copy colors from Z-Buffer to screen
+
+
+# 💡New Idea: GLSL Decorators
+- Shader language is similar to C, with the addition of decorators
+- OpenGL's shader language in called `GLSL`, or graphics library shader library
+  - Compare to HLSL, Microsoft's language for DirectX
+- Decorators proceed the variable type declaration
+- [decorator] [type] [variable name]
+  - For example: `uniform mat4 worldMatrix;`
+- Uniforms in classic OpenGL
+  -  `uniform` - values that are constant across all triangles
+  -  `attribute` - values that change per vertex
+  -  `varying` - values that change per fragment
+
+# 💡New Idea: GLSL variables
+- `float` - a scalar
+- `vec2` - a 2D Vector
+- `vec3` - a 3D Vector
+- `vec3` - a 4D Vector
+- `mat3` - a 3x3 Matrix
+- `mat4` - a 4x4 Matrix
+
+# 💡New Idea: Setting the final color of a fragment
+- Set the `gl_FragColor` to set the final color of a fragment
+- This is a `vec4`
+
+# 💡New Idea: Ambient Light
+- Adding a constant vec3 to `gl_FlagColor` adds ambient light
+
+# 💡New Idea: Diffuse Light
+- Diffuse light is calculated by finding the dot product of the normal and the direction to the light
+- If the dot product is below zero, then we set it to 0
+  - A common bug is to accidentally subtract light
+- Multiply the dot product by the color of the diffuse surface to get a final diffuse contribution
+- Add the result to the ambient value
+
+```glsl
+  vec3 lightDir = normalize(vec3(1.0, 1.0, -1.0));
+  vec3 normal = normalize(vNormal);
+  float diffuse = max(dot(normal, lightDir), 0.0);
+  vec3 color = vec3(0.2, 0.5, 0.8) * (diffuse * 0.8 + 0.2);
+  vec3 ambient = vec3(.1, .1, .1);
+  vec3 finalColor = ambient + diffuse;
+  gl_FragColor = vec4(finalColor, 1.0);
+```
+
+## 🏁Final Code
+- [The final code for today](https://github.com/cs4620/Spring2026.RasterizerDemo)
+<br/><br/>
+---
+---
+
+
 # Day 11 - February 24  - (👟Sprint 4)
 <br/><br/>
 ---
