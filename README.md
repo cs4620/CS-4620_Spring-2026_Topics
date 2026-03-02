@@ -73,6 +73,8 @@ These are the topics we are going to cover in class each day. Links to [example 
   gl_FragColor = vec4(finalColor, 1.0);
 ```
 
+# 💡New Idea: Perlin Noise
+
 ## 🏁Final Code
 - [The final code for today](https://github.com/cs4620/Spring2026.RasterizerDemo)
 <br/><br/>
