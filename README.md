@@ -2,8 +2,42 @@
 These are the topics we are going to cover in class each day. Links to [example student videos ](https://www.youtube.com/playlist?list=PLH9qo0GKu2iQgPuzozltIuvLgEddxc43L) and [slides from class](https://uofnebraska-my.sharepoint.com/:f:/g/personal/17816140_nebraska_edu/IgCHg5Sr1POTT4uZ0xpYHfWsAcBjrFnqAThYk6a3sROkT3Y?e=5PhlNM)
 
 <br/><br/>
+--- 
+---
+
+# Day Day 14 - March 5 - Vertex Shaders and OpenGL (🧑‍🏫Lecture)
+
+## 🖼️Activity:
+- Review previs
+- https://www.youtube.com/watch?v=bgvgi3ShcmY
+- Review Render Time
+- https://www.youtube.com/watch?v=aE1d2Chrq-A
+
+## 💡New Idea:
+- 
+
+## 👩‍💻Code Together:
+-
+
+## 🧭Ideas to explore on your own
+- 
+
+## 🏁Final Code
+- [The final code for today](https://github.com/cs2510/Fall2025.Day)
+<br/><br/>
 ---
 ---
+
+
+
+# Day 13 - March3 - (👟Sprint)
+<br/><br/>
+---
+---
+
+
+
+
 
 # Day 12 - February 26 - Shader Basics [Rasterizing] (🧑‍🏫Lecture 8)
 
