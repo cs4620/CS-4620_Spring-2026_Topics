@@ -1,6 +1,6 @@
-# Final Rubric
+# Draft Final Rubric
 
-Your grade on teh final presentation will be based on whether you implement the basic requirements of the three areas we cover in the class and then whether you show mastery of these topics. 
+Your grade on the final presentation will be based on whether you implement the basic requirements of the three areas we cover in the class and then whether you show mastery of these topics. 
 
 Key:
 - ✅ Implemented in class
