@@ -5,7 +5,7 @@ These are the topics we are going to cover in class each day. Links to [example 
 --- 
 ---
 
-# Day Day 14 - March 5 - Vertex Shaders and OpenGL (🧑‍🏫Lecture)
+# Day Day 14 - March 5 - Vertex Shaders and OpenGL (🧑‍🏫Lecture 9)
 
 ## 🖼️Activity:
 - Review previs
@@ -422,7 +422,7 @@ https://www.youtube.com/watch?v=TzMHqw0Qp-s
   •	Add details to the high-poly mesh
   •	Add a shader to the low-poly mesh.
   •	Create and select an image texture in that shader
-  •	Chane renderer to cycles
+  •	Change renderer to cycles
   •	Open bake tab.
   •	Change from Combined to Normal
   •	Select selected to active
