@@ -20,13 +20,16 @@ These are the topics we are going to cover in class each day. Links to [example 
 
 ## 💡New Idea: OBJ Files
 - You only need to pay attention to the following lines:
-  - v
-  - vt
-  - vn
-  - f
+  - v (three floats that define the x, y, and z of a vertex location)
+  - vt (two floats that define the u, and v of a vertex texture coordinate)
+  - vn (three floats that define the x, y, and z of a vertex normal)
+  - f (three triples in `v_index/vt_index/vn_index` format that define the three vertices in a triangle)
+- Indices are 1-based instead of the traditional 0-based used across computer science
+
 - You can ignore everything else
 
 - Example OBJ file for a triangle
+  - Note that this example excludes lines we should ignore
 ```obj
 v 0.000000 0.000000 0.000000
 v 1.000000 0.000000 0.000000
@@ -63,10 +66,8 @@ f 6/1/1 4/4/1 3/2/1
 f 4/4/2 2/6/2 1/5/2
 ```
 
-- Remember that indices are 1-based instead of the traditional 0-based used across computer science
 
-- The f entry: 
-  - A list of triples that give the vertex location, uv, and normal information about each vertex in the face
+
   
 ## 👩‍💻Code Together:
 - OBJ
@@ -90,7 +91,7 @@ f 4/4/2 2/6/2 1/5/2
 
 
 ## 🏁Final Code
-- [The final code for today](https://github.com/cs2510/Fall2025.Day)
+- [The final code for today](https://github.com/cs2510/Spring26.rasterizer-prep)
 <br/><br/>
 ---
 ---
