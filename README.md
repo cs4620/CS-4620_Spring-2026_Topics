@@ -54,12 +54,11 @@ These are the topics we are going to cover in class each day. Links to [example 
    - A point $p$ is in a triangle if for all vertices $v_k$ in the triangle, the cross product of  $v_k-p$ and $v_k-v_{k+1}$ is positive.
    - We loop through all the points in the triangle, find the difference to $p$, and take the cross product of the appropriate leg.
    - If they are all positive, we are in the triangle
-
-## 🧭Ideas to explore on your own
-- 
+6. Once we know if a point is in the triangle, we assign it the triangel color if it is, otherwise we assign the background color to the pixel
+7. Once we know all the pixel colors, we write them to the final image.
 
 ## 🏁Final Code
-- [The final code for today](https://github.com/cs2510/Fall2025.Day)
+- [The final code for today](https://github.com/cs4620/Spring26-Day20-One-Triangle-Prep)
 <br/><br/>
 ---
 ---
