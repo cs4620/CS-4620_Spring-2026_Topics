@@ -35,7 +35,7 @@ These are the topics we are going to cover in class each day. Links to [example 
 - How would you import an obj into a ray tracer?
 
 ## 🏁Final Code
-- [The final code for today](https://github.com/cs2510/Fall2025.Day)
+- [The final code for today](https://github.com/cs4620/Spring26-Day22-Multiple-Triangle-Ray-Tracer)
 <br/><br/>
 ---
 ---
