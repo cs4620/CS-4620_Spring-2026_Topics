@@ -5,6 +5,48 @@ These are the topics we are going to cover in class each day. Links to [example 
 --- 
 ---
 
+# Day 22 - April 9 - First Full Ray Tracer (🧑‍🏫Lecture)
+
+## 🖼️Activity:
+- [Commentary of Ray Tracing in Pixar Films](https://www.youtube.com/watch?v=BWbYhW5PNdQ&t=139s)
+
+## 💡New Idea: Barycentric Coordinates
+- Review Barycentric coordinates
+
+## 👩‍💻Code Together:
+- Determine if a point on a plan is in a triangle using Barycentric coordinates
+  - Find the area of the whole triangle using cross products
+  - Find the three vectors from the point to the triangle vertices
+  - Find the three Barycentric Coordinates
+  - See if the coordinates sum to one
+
+## 💡New Idea: Proper class defintion in C++
+- Move Vector3 to a .hpp file
+- Add #ifndef
+- Add a .cpp file
+- Update the compile command
+
+## 👩‍💻Code Together: Create Triangles and Meshes
+- A mesh has an array of triangles and a shader
+- A triangle has three Vector3s
+  
+
+## 🧭Ideas to explore on your own
+- How would you import an obj into a ray tracer?
+
+## 🏁Final Code
+- [The final code for today](https://github.com/cs2510/Fall2025.Day)
+<br/><br/>
+---
+---
+
+
+# Day 21 - April 7 - (👟Sprint)
+<br/><br/>
+---
+---
+
+
 # Day 20 - April 2 - Ray Tracing Basics [Ray Tracing](🧑‍🏫Lecture)
 
 
