@@ -1,6 +1,8 @@
 # CS 4620/8626 - Spring 2026 - Topics
 These are the topics we are going to cover in class each day. Links to [example student videos ](https://www.youtube.com/playlist?list=PLH9qo0GKu2iQgPuzozltIuvLgEddxc43L) and [slides from class](https://uofnebraska-my.sharepoint.com/:f:/g/personal/17816140_nebraska_edu/IgCHg5Sr1POTT4uZ0xpYHfWsAcBjrFnqAThYk6a3sROkT3Y?e=5PhlNM)
 
+![End of Semester Calendar](support/Calendar.png)
+
 <br/><br/>
 --- 
 ---
