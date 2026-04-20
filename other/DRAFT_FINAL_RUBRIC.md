@@ -21,17 +21,18 @@ Key:
 ## Requirements
 - ✅ Show that you have a clear understanding of vertex and fragment shaders
 - ✅ Show that you have a clear understanding of writing OpenGL code from scratch
-- ❌ Parse an obj file you export from a non-trivial model you made in Blender
+- ✅ Parse an obj file you export from a non-trivial model you made in Blender
+  
 ## Mastery
-- Show mastery of at least one of the requirement topics. For example, a particularly detailed shader, particularly detailed OpenGL code (e.g. multiple models, multiple shader programs), parse formats other than obj, moving the camera through input, moving the object through input, and/or particularly detailed interaction with the running rasterizer.
+- Show mastery of at least one of the requirement topics. For example, a particularly detailed shader, particularly detailed OpenGL code (e.g. multiple models, multiple shader programs), parse formats other than obj, animated objs, moving the camera through input, moving the object through input, and/or particularly detailed interaction with the running rasterizer.
   
 # Ray Tracer [CPU]
-- ❌Show you have a clear understanding of ray tracing concepts
-- ❌Ray trace multiple triangles and spheres
+- ✅Show you have a clear understanding of ray tracing concepts
+- ✅Ray trace multiple triangles
 - ❌Ray trace reflection, lights, and shadows
   
 # Mastery
-- Show mastery of at least one of these concepts. For example, optimized running speeds, particularly detailed scenes/lighting/etc., multisampling, threaded, moving camera, refraction, and/or particularly detailed effects.
+- Show mastery of at least one of these concepts. For example, optimized running speeds, particularly detailed scenes/lighting/etc., multisampling, advanced shaders, animated objs, threading, moving camera, refraction, and/or particularly detailed effects.
 
 # Grades
 The grade for the final will be based on  this rubric as follows:

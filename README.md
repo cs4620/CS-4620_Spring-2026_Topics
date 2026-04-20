@@ -7,7 +7,8 @@ These are the topics we are going to cover in class each day. Links to [example 
 --- 
 ---
 
-# Day 22 - April 9 - First Full Ray Tracer (🧑‍🏫Lecture)
+# Day 22 - April 9 - First Full Ray Tracer [Ray Tracing](🧑‍🏫Lecture)
+![Multiple Triangle Image](support/multiple-triangle.png)
 
 ## 🖼️Activity:
 - [Commentary of Ray Tracing in Pixar Films](https://www.youtube.com/watch?v=BWbYhW5PNdQ&t=139s)
